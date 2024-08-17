@@ -1,0 +1,1 @@
+cc.Class({extends:cc.Component,properties:{},Pagechange:function(){\u70b9\u51fbchem_report&&cc.director.loadScene(Scene2)}});
